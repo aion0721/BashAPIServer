@@ -1,1 +1,4 @@
 # BashAPIServer
+
+## dependencies
+netcat
